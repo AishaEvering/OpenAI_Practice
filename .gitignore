@@ -1,0 +1,9 @@
+# Environments
+.env
+node_modules
+/.next/
+.next/static
+.next/cache/
+.env.local
+
+
